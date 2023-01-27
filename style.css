@@ -1,0 +1,40 @@
+.header
+{
+	background-color: grey;
+	text-align: center;
+	text-decoration: green;
+	width: 800px;
+	margin-left: 220px;
+}
+.img_vote
+{
+	align-items: center;
+	margin-left: 600px; 
+
+}
+.voter_auth
+{
+	text-align: center;
+	/*background-color: green;*/
+	margin-left: 220px;
+	width: 800px;
+}
+.body_index
+{
+	background-image: url("voter_backg.png");
+}
+.body_form
+{
+	text-align: center;
+	background-image: url(img_vote.png);
+	background-color: grey;
+	height: 230px;
+	width: 350px;
+	border-radius: 10px;
+	padding-top: 20px;
+	padding-left: 20px;
+	margin-left: 500px;
+	margin-top: 50px;
+	text-align: center;
+}
+
